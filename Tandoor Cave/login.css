@@ -1,0 +1,132 @@
+*{
+	background: white;
+	color: black;
+}
+:root{
+    --green:#27ae60;
+    --black:#192a56;
+    --light-color:#666;
+    --box-shadow:0 .5rem 1.5rem rgba(0,0,0,.1);
+}
+*{
+    font-family: 'Nunito', sans-serif;
+    margin:0; padding:0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none; border:none;
+    text-transform: capitalize;
+    transition: all .2s linear;
+}
+
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-padding-top: 5.5rem;
+    scroll-behavior: smooth;
+}
+#lg{
+    margin-left: 66px;
+    padding-top: 150px;
+    font-size: 45px;
+    align-items: relative;
+
+}
+.slider{
+    color:black;
+    padding-left: 30px;
+   
+}
+
+.btn{
+    margin-top: 1rem;
+    display: inline-block;
+    font-size: 1.7rem;
+    color:white;
+    background: black;
+    border-radius:0rem;
+    cursor: pointer;
+    padding:.8rem 3rem;
+    margin-left: 30px;
+}
+
+.btn:hover{
+    background: orange;
+    letter-spacing: .1rem;
+}
+#b1{
+    padding-left: 30px;
+    font-size: 20px;
+    padding-top: 23.3px;
+    padding-bottom: 23.5px;
+    margin-left: 0px;
+    background: orange;
+    padding-right: 25px;
+    font-weight: bold;
+}
+
+
+#image{
+  width: 50%;
+  padding-top: 20px;
+  height: 830px;
+
+
+}
+
+
+
+
+
+#input{
+    padding-left: 30px;
+}
+#h1{
+ color: orange;
+ padding-left: 30px;
+ 
+
+}
+#p{
+    font-size: 20px;
+    color: gray;
+    padding-left: 30px;
+    padding-top: 5px;
+}
+
+
+#ipp{
+    background: black;
+    color: white;
+    width: 30%;
+    height: 70px;
+    padding-left: 20px;
+    font-size: 20px;
+
+}
+#sp{
+    height: 70px;
+    background: orange;
+    
+    margin-top: 10px;
+    position: relative;
+    font-size: 50px;
+}
+#p1{
+    font-size: 20px;
+    color: gray;
+    padding-left: 30px;
+    padding-top: 15px;
+}
+
+#b{
+    background: white;
+    color: black;
+    font-weight: bold;
+    border-image: black;
+}
+
+
+
+
+
+
